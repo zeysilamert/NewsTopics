@@ -1,0 +1,2 @@
+# NewsTopics
+ In this project, I explored various natural language processing techniques to uncover topics and group similar documents in my news dataset. Primary focus was on topic modeling and clustering, and 5 different models were applied, comparing their results by using several evaluation metrics like perplexity, silhouette score and visualization methods such as word cloud, plots for better interpretation.
